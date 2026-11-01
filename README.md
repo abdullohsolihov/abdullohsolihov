@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Abdulloh! 👋
 
-<!--
-**abdullohsolihov/abdullohsolihov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer in Training
 
-Here are some ideas to get you started:
+I'm learning to build web applications and improving my programming skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies I'm Learning
+
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: PostgreSQL, SQL
+- Tools: Git, GitHub, VS Code
+
+🚀 My Projects
+
+- "Backend IMS" (https://github.com/abdullohsolihov/Backend_Ims) — My backend project using Node.js and PostgreSQL.
+
+🎯 My Goals
+
+- Build full-stack web applications.
+- Improve my backend and frontend skills.
+- Create useful projects and become a professional developer.
+
+📫 Contact
+
+- GitHub: "@abdullohsolihov" (https://github.com/abdullohsolihov)
